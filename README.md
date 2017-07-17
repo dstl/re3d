@@ -112,7 +112,7 @@ A hybrid approach, which combined automated extraction, expert annotation and cr
 4. Confidence Calculation - where confidence scores were calculated using a Bayesian model of annotation data generation ('IBCC'), to generate probability distributions for the ‘correct' annotation for each instance;
 5. Committal to Dataset - where all of the data described above was integrated, committed and stored in the underlying database, enabling retrieval, interrogation and, ultimately, its utilisation as a training or validation dataset.
 
-![Annotation Process Illustration](https://github.com/dstl/evaluation-dataset/annotation/process.png)
+![Annotation Process Illustration](/annotation_process.png?raw=true)
 
 # Contact
 
