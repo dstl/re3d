@@ -114,6 +114,6 @@ A hybrid approach, which combined automated extraction, expert annotation and cr
 
 ![Annotation Process Illustration](/annotation_process.png?raw=true)
 
-# Contact
+# Licences and Contact
 
-If you have any queries regarding this dataset, please contact oss@dstl.gov.uk.
+Each part of the dataset is licensed separately. For licence information, see the LICENSE file in each sub-folder for full details. If you have any queries regarding this dataset, please contact oss@dstl.gov.uk.
